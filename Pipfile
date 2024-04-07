@@ -23,6 +23,7 @@ datasets = "*"
 bertopic = "*"
 sentence-transformers = "*"
 transformers = "*"
+accelerate = "*"
 
 [dev-packages]
 

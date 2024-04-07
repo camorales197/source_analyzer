@@ -1,7 +1,7 @@
 .env
 .vscode
 files/*
-results/*
+
 df_llm_analyzer.py
 .DS_Store
 *.pyc

@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gdeltdoc = "*"
+pandas = "*"
+mediacloud = "*"
+jupyter = "*"
+ipykernel = "*"
+langchain-community = "*"
+langchain = "*"
+pypdf = "*"
+lxml = "*"
+tqdm = "*"
+loguru = "*"
+langchain-openai = "*"
+fastparquet = "*"
+pyarrow = "*"
+python-dotenv = "*"
+datasets = "*"
+bertopic = "*"
+sentence-transformers = "*"
+transformers = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
